@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://github.com/thiago082882/JetpackComposeApiCep/assets/93166095/1f1d777b-b922-4f2f-bf8f-58239a402f2f" width="200">
+<img src="https://github.com/thiago082882/ApiCep/assets/93166095/ea6291a0-0609-4941-8009-43aef50b08bb" width="200">
 
 
 </div>
